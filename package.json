@@ -1,0 +1,24 @@
+{
+  "name": "wallbulb",
+  "homepage": "https://github.com/S4more",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/S4more/clight"
+  },
+  "version": "1.0.0",
+  "description": "",
+  "main": "clight.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "S4more",
+  "license": "ISC",
+  "dependencies": {
+    "colorsys": "^1.0.22",
+    "fast-average-color-node": "^1.0.3",
+    "yargs": "^16.2.0"
+  },
+  "engines": {
+    "node": ">=8"
+  }
+}
